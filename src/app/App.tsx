@@ -55,7 +55,7 @@ export default function App() {
       <section id="home" className="min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8 pt-16">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl sm:text-6xl lg:text-7xl mb-6 text-gray-900">
-            Hi, I'm <span className="text-blue-600">Your Name</span>
+            Hi, I'm <span className="text-blue-600">Aditya Rai Setiadi/span>
           </h1>
           <p className="text-xl sm:text-2xl text-gray-600 mb-8">
             Full Stack Developer & Creative Problem Solver
@@ -228,7 +228,7 @@ export default function App() {
             <form className="space-y-4">
               <input
                 type="text"
-                placeholder="Your Name"
+                placeholder="Aditya Rai Setiadi"
                 className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600"
               />
               <input
@@ -255,7 +255,7 @@ export default function App() {
       {/* Footer */}
       <footer className="py-8 px-4 border-t border-gray-200 bg-gray-50">
         <div className="max-w-6xl mx-auto text-center text-gray-600">
-          <p>© 2026 Your Name. All rights reserved.</p>
+          <p>© 2026 Aditya Rai Setiadi. All rights reserved.</p>
         </div>
       </footer>
     </div>
