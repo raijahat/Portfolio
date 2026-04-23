@@ -55,7 +55,7 @@ export default function App() {
       <section id="home" className="min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8 pt-16">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-5xl sm:text-6xl lg:text-7xl mb-6 text-gray-900">
-            Hi, I'm <span className="text-blue-600">Aditya Rai Setiadi/span>
+            Hi, I'm <span className="text-blue-600">Aditya Rai Setiadi</span>
           </h1>
           <p className="text-xl sm:text-2xl text-gray-600 mb-8">
             Full Stack Developer & Creative Problem Solver
