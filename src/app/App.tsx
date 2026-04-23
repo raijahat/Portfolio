@@ -58,11 +58,11 @@ export default function App() {
             Hi, I'm <span className="text-blue-600">Aditya Rai Setiadi</span>
           </h1>
           <p className="text-xl sm:text-2xl text-gray-600 mb-8">
-            Full Stack Developer & Creative Problem Solver
+            Pengennya Full Stack Developer  & IoT Engineer
           </p>
           <p className="text-lg text-gray-500 mb-12 max-w-2xl mx-auto">
-            I build beautiful, functional web experiences that make a difference.
-            Passionate about clean code and elegant design.
+            I build beautiful and functional web experiences that create positive impact. I also love the internet of things.
+            I'm passionate about clean code and elegant design.
           </p>
           <div className="flex justify-center gap-4">
             <button
@@ -94,9 +94,7 @@ export default function App() {
                 user-friendly applications.
               </p>
               <p className="text-gray-700 mb-4">
-                My journey in tech started with curiosity and has evolved into a career where I
-                continuously learn and adapt to new challenges. I believe in writing clean,
-                maintainable code and creating solutions that truly serve users.
+                My journey in technology began with curiosity and has evolved, constantly learning and adapting to new challenges. I believe in writing clean, maintainable code and creating solutions that truly benefit users.
               </p>
               <p className="text-gray-700">
                 When I'm not coding, you'll find me exploring new technologies, contributing to
@@ -114,9 +112,9 @@ export default function App() {
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
               { category: 'Frontend', skills: ['React', 'TypeScript', 'Tailwind CSS', 'Next.js'] },
-              { category: 'Backend', skills: ['Node.js', 'Python', 'PostgreSQL', 'REST APIs'] },
-              { category: 'Tools', skills: ['Git', 'Docker', 'AWS', 'Figma'] },
-              { category: 'Soft Skills', skills: ['Problem Solving', 'Team Collaboration', 'Agile/Scrum', 'Communication'] },
+              { category: 'Backend', skills: ['Node.js', 'Python', 'Java'] },
+              { category: 'Tools', skills: ['Git', 'Vs Code', 'AWS', 'Figma'] },
+              { category: 'Soft Skills', skills: ['Problem Solving', 'Team Collaboration', 'Communication'] },
               { category: 'Currently Learning', skills: ['GraphQL', 'Rust', 'Machine Learning', 'Web3'] },
               { category: 'Interests', skills: ['UI/UX Design', 'Performance Optimization', 'Accessibility', 'Open Source'] }
             ].map((item, index) => (
@@ -210,11 +208,11 @@ export default function App() {
           </p>
 
           <div className="flex justify-center gap-6 mb-12">
-            <a href="mailto:your.email@example.com" className="flex items-center gap-2 px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
+            <a href="mailto:adityaraisetiadi43@gmail.com" className="flex items-center gap-2 px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
               <Mail size={20} />
               Email Me
             </a>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-6 py-3 border-2 border-gray-900 text-gray-900 rounded-lg hover:bg-gray-900 hover:text-white transition">
+            <a href="https://github.com/raijahat" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-6 py-3 border-2 border-gray-900 text-gray-900 rounded-lg hover:bg-gray-900 hover:text-white transition">
               <Github size={20} />
               GitHub
             </a>
@@ -255,7 +253,7 @@ export default function App() {
       {/* Footer */}
       <footer className="py-8 px-4 border-t border-gray-200 bg-gray-50">
         <div className="max-w-6xl mx-auto text-center text-gray-600">
-          <p>© 2026 Aditya Rai Setiadi. All rights reserved.</p>
+          <p>© 2026 Aditya Rai Setiadi. All are protected by God.</p>
         </div>
       </footer>
     </div>
